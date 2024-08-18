@@ -40,9 +40,14 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    
 6. **Configuration**
    Locate where it is installed and edit "settings.json".
-   You want to change PUT DIR HERE in "directory": "PUT DIR HERE" to the location of your "Homework" folder, For Example: {
-                                                                                                                            "directory": "C:\\special"
-                                                                                                                           }
+   
+   You want to change "PUT DIR HERE" to the location of your "Homework" folder, For Example:
+
+   {
+ 
+  "directory": "C:\\special"
+ 
+ }
    MAKE SURE YOU USE TWO \\ NOT JUST ONE
 
  ## Usage
