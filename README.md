@@ -47,7 +47,8 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
  
   "directory": "C:\\special"
  
- }
+   }
+ 
    MAKE SURE YOU USE TWO \\ NOT JUST ONE
 
  ## Usage
