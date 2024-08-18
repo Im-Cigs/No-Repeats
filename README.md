@@ -37,7 +37,24 @@ For example, if you point it to your Downloads folder, it will compare each file
    
 5. **Configuration**
    Locate where it is installed and edit "settings.json".
-   You want to change PUT DIR HERE in "directory": "PUT DIR HERE" to the location of your "Homework" folder, For Example: {
+   You want to change PUT DIR HERE in "directory": "PUT DIR HERE" to the location of your "Homewi nork" folder, For Example: {
                                                                                                                             "directory": "C:\special"
                                                                                                                            }
 
+ ## Usage
+
+ 1. **Run the script:**
+
+   ```sh
+   python no_repeats.py
+   ```
+The script will put all found duplicates in "duplicates.txt"
+
+If it crashes or otherwise bugs in some way you can contact me @cigarettes1231312:matrix.org
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+
+   
