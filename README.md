@@ -53,7 +53,7 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    ```
 The script will put all found duplicates in "duplicates.txt"
 
-If it crashes or otherwise bugs in some way you can contact me @cigarettes1231312:matrix.org
+If it crashes or otherwise bugs in any way you can contact me @cigarettes1231312:matrix.org
 
 
 ## License
