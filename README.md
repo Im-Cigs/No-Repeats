@@ -25,6 +25,7 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    python -m venv venv
 
 3. **activate the virtual environment**
+   
    On Windows:
    ```sh
    venv\Scripts\activate
@@ -33,15 +34,21 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    ```sh
    source venv/bin/activate
    
-4. **Install requirments**
+5. **Install requirments**
    ```sh
    pip install -r requirements.txt
    
-5. **Configuration**
+6. **Configuration**
    Locate where it is installed and edit "settings.json".
-   You want to change PUT DIR HERE in "directory": "PUT DIR HERE" to the location of your "Homework" folder, For Example: {
-                                                                                                                            "directory": "C:\\special"
-                                                                                                                           }
+   
+   You want to change "PUT DIR HERE" to the location of your "Homework" folder, For Example:
+
+   {
+ 
+  "directory": "C:\\special"
+ 
+   }
+ 
    MAKE SURE YOU USE TWO \\ NOT JUST ONE
 
  ## Usage
@@ -53,7 +60,7 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    ```
 The script will put all found duplicates in "duplicates.txt"
 
-If it crashes or otherwise bugs in some way you can contact me @cigarettes1231312:matrix.org
+If it crashes or otherwise bugs in any way you can contact me @cigarettes1231312:matrix.org
 
 
 ## License
