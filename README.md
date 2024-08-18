@@ -4,6 +4,8 @@ This tool is designed for those who frequently download large amounts of 'Homewo
 
 For example, if you point it to your Downloads folder, it will compare each file against the others in that folder and its subfolders to identify any duplicates.
 
+IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
+
 ## Prerequisites
 
 - Python 3.6 or higher
