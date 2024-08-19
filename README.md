@@ -34,10 +34,12 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
    ```sh
    source venv/bin/activate
    
+**NOT NEEDED**
+---------------------------------------------------------------------------------------------
 5. **Install requirments**
    ```sh
    pip install -r requirements.txt
-   
+---------------------------------------------------------------------------------------------
 6. **Configuration**
    
    Locate where No-Repeats is installed and edit "settings.json".
