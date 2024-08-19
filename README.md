@@ -17,7 +17,7 @@ IF YOU HAVE ANY SUGGESTIONS PLEASE CONTACT ME @cigarettes1231312:matrix.org
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/no-repeats.git
+   git clone https://github.com/Im-Cigs/No-Repeats.git
    cd no-repeats
 
 2. **Create a virtual environment** (Optinal but recommended)
